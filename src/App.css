@@ -41,3 +41,25 @@
   font-weight: 100;
   font-size: 12px;
 }
+
+.text-area {
+  font-size: 20px;
+  padding: 10px;
+  font-family: poppins;
+}
+
+.action-btn {
+  background-color: #212121;
+  color: whitesmoke;
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  font-size: 15px;
+  font-family: Poppins;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.action-btn:hover {
+  background-color: #424242;
+}
